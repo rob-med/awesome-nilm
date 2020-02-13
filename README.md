@@ -93,7 +93,7 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
 ### Papers on Datasets
 
 - **Position Paper: Electricity Consumption Data Sets: Pitfalls and Opportunities** [[pdf]](http://makonin.com/doc/BuildSys_2019.pdf)
-  - C Klemenjak, A Reihardt, L Pereira, S Makoni, M Berges, W Elmenreich. ACM BuildSys. 2019
+  - C Klemenjak, A Reihardt, L Pereira, S Makoni, M Berges, W Elmenreich. ACM BuildSys. 2019 
 
 ### Real Datasets
 
@@ -105,7 +105,7 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
 - ECO [[link]](http://www.vs.inf.ethz.ch/res/show.html?what=eco-data)
 - HES [[link]](http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description)
 - Tracebase [[link]](https://github.com/areinhardt/tracebase)
-- PLAID [[link]](http://www.plaidplug.com/)
+- PLAID [[link]](https://www.nature.com/articles/s41597-020-0389-7)
 - ENERTALK [[link]](https://www.nature.com/articles/s41597-019-0212-5)
 
 ### Synthetic Datasets
